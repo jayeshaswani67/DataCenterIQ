@@ -281,7 +281,7 @@ Explore the underlying dataset and filtered records.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DataCenterIQ.git
+git clone https://github.com/jayeshaswani67/DataCenterIQ.git
 ```
 
 Move into the project:
